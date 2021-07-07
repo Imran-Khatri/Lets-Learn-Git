@@ -1,9 +1,8 @@
 dev
-<<<<<<< HEAD
 Hello
 how are you
 i am fine
-=======
 
 Added this line in dev
->>>>>>> dev
+
+hello
